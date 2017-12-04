@@ -1,3 +1,5 @@
+[appurl]: https://sourceforge.net/p/ddclient/wiki/Home/
+
 # ledokun/ddclient
 
 ddclient running on Alpine Linux, based on linuxserver/docker-ddclient, with cURL for services like deSEC.
