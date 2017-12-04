@@ -2,7 +2,7 @@
 
 # ledokun/ddclient
 
-ddclient running on Alpine Linux, based on linuxserver/docker-ddclient, with cURL for services like deSEC.
+ddclient running on Alpine Linux, based on [linuxserver/docker-ddclient](https://github.com/linuxserver/docker-ddclient), with cURL for services like deSEC.
 
 [DDClient][appurl] is a Perl client used to update dynamic DNS entries for accounts on Dynamic DNS Network Service Provider. It was originally written by Paul Burry and is now mostly by wimpunk. It has the capability to update more than just dyndns and it can fetch your WAN-ipaddress in a few different ways.
 
